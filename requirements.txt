@@ -1,0 +1,5 @@
+instaloader == 4.0.5
+pymysql == 0.9.2
+loggly-python-handler == 1.0.0
+webhook-logger == 0.2.0
+google-cloud-vision == 0.34

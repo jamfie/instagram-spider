@@ -1,0 +1,7 @@
+__pycache__
+*.db
+*.log
+*.pyc
+*.out
+/app/openvpn/cmdline.txt
+/app/openvpn/log.txt
